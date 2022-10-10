@@ -1,0 +1,1287 @@
+@media(min-width:1200px) and (max-width:1399px) {
+
+    /* ===========Navber part start======== */
+    .navbar {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        bottom: -32px;
+    }
+
+    /* ===========Navber part end======== */
+    /* ===========Banner part start======== */
+    .ban-text p {
+        margin-bottom: 40px;
+    }
+
+    /* ===========Banner part end======== */
+    /* =========About part start=========== */
+    .head p {
+        padding: 0 0px;
+    }
+
+    .about-top {
+        padding: 37px 10px;
+        margin-bottom: 42px;
+    }
+
+    .down-about {
+        padding: 37px 10px;
+        margin-top: 42px;
+    }
+
+    .mid-about {
+        width: 313px;
+        height: 313px;
+    }
+
+    .inner-img img {
+        width: 275px;
+        height: 275px;
+    }
+
+    .dot3 {
+        left: -53px;
+    }
+
+    .dot2 {
+        right: -53px;
+    }
+
+    .main-top .dot {
+        bottom: -53px;
+    }
+
+    .dot4 {
+        top: -53px;
+    }
+
+    /* =========About part end============== */
+    /* ===========service part start======== */
+    .inner_service:nth-child(2n+1) .service .right_service .angle_sape {
+        left: 429px;
+    }
+
+    .chain img {
+        height: 845px;
+    }
+
+    /* ===========service part end======== */
+    /* ===========pracing part start======== */
+    #pracing {
+        margin-bottom: 24px;
+    }
+
+    /* ===========pracing part end======== */
+    /* ===========counter part start======== */
+    .counter_item {
+        width: 199px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    /* ===========counter part end======== */
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+
+    /* =========Navber part start=========== */
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link {
+        font-size: 15px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        bottom: -41px;
+    }
+
+    /* =========Navber part starend========= */
+    /* =========Banner part start=========== */
+    .ban-text h2 {
+        margin-top: 60px;
+        margin-bottom: 10px;
+    }
+
+    .ban-text h1 {
+        margin-bottom: 15px;
+    }
+
+    .ban-text p {
+        margin-bottom: 20px;
+        padding: 0 0px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        bottom: -23px;
+    }
+
+    /* =========Banner part starend========= */
+    /* =========About part start=========== */
+    .head p {
+        padding: 0 0px;
+    }
+
+    .about-top {
+        padding: 37px 10px;
+        margin-bottom: 33px;
+    }
+
+    .down-about {
+        padding: 37px 10px;
+        margin-top: 33px;
+    }
+
+    .mid-about {
+        width: 270px;
+        height: 270px;
+    }
+
+    .inner-img img {
+        width: 245px;
+        height: 245px;
+    }
+
+    .dot3 {
+        left: -42px;
+    }
+
+    .dot2 {
+        right: -42px;
+    }
+
+    .main-top .dot {
+        bottom: -42px;
+    }
+
+    .dot4 {
+        top: -42px;
+    }
+
+    /* =========About part end============== */
+    /* =========portfolio part start=========== */
+    #portfolio {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    /* =========portfolio part end============= */
+    /* =========Service part start=========== */
+    .inner_service:nth-child(2n+1) .service .right_service .angle_sape {
+        left: 357px;
+    }
+
+    .angle_up i {
+        top: 135px;
+    }
+
+    .chain img {
+        top: 175px;
+        height: 919px;
+    }
+
+    /* =========Service part end============= */
+    /* =========comment part start=========== */
+    .comment {
+        padding: 45px 23px;
+    }
+
+    .comment_img {
+        left: 169px;
+    }
+
+    /* =========comment part end============= */
+    /* =========pracing part start=========== */
+    #pracing {
+        margin-bottom: 24px;
+    }
+
+    /* =========pracing part end============= */
+    /* =========counter part start=========== */
+    .counter_item {
+        width: 164px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .counter_item p {
+        font-size: 17px;
+    }
+
+    /* =========counter part end============= */
+    /* =========team part start=========== */
+    .inner_team {
+        top: 193px;
+    }
+
+    .team_img {
+        margin-top: -186px;
+        clip-path: polygon(0 0, 100% 0, 100% 93%, 0% 100%);
+    }
+
+    .team_icon a i {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    /* =========team part end============= */
+    /* =========brand part start=========== */
+    .brand img {
+        transform: rotate(3deg) skew(3deg) scale(.7);
+    }
+
+    .brand.slick-center img {
+        border-color: #fec600;
+        transform: rotate(3deg) skew(3deg) scale(.7);
+    }
+
+    /* =========brand part end============= */
+    /* =========footer part start=========== */
+    .footer_logo {
+        padding-bottom: 35px;
+    }
+
+    .footer_item::after {
+        right: -14px;
+    }
+
+    .footer_item p {
+        font-size: 13px;
+    }
+
+    /* =========footer part end============= */
+}
+
+@media(min-width:768px) and (max-width:991px) {
+
+    /* =======navber part start========== */
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background: #313131;
+    }
+
+    #menu-wrapper #hamburger-menu {
+        margin: 29px 89%;
+    }
+
+    /* =======navber part end============ */
+    /* =======banner part start========== */
+    .angle-right {
+        display: none;
+    }
+
+    .angle-left {
+        display: none;
+    }
+
+    .ban-text h2 {
+        font-size: 30px;
+        margin-bottom: 12px;
+        margin-top: 60px;
+    }
+
+    .ban-text h1 {
+        font-size: 40px;
+        margin-bottom: 10px !important;
+    }
+
+    .ban-text p {
+        padding: 0 80px;
+        margin-bottom: 15px;
+    }
+
+    .ban-btn button {
+        width: 100px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-left: 10px;
+        font-size: 14px;
+    }
+
+    /* =======banner part end============ */
+    /* =======about part start============ */
+    #about {
+        margin-bottom: 24px;
+    }
+
+    .head p {
+        padding: 0 52px;
+    }
+
+    .about-top .sape {
+        display: none;
+    }
+
+    .main-top .dot {
+        display: none;
+    }
+
+    .left-about .sape {
+        display: none;
+    }
+
+    .dot2 {
+        display: none;
+    }
+
+    .dot3 {
+        display: none;
+    }
+
+    .right-about .sape {
+        display: none;
+    }
+
+    .dot4 {
+        display: none;
+    }
+
+    .down-about .sape {
+        display: none;
+    }
+
+    .left-about {
+        text-align: center !important;
+        margin-bottom: 24px;
+    }
+
+    .right-about {
+        text-align: center;
+        margin-top: 24px;
+    }
+
+    .about-top {
+        padding: 37px 58px;
+    }
+
+    .left-about {
+        padding: 37px 32px;
+    }
+
+    .right-about {
+        padding: 37px 46px;
+    }
+
+    .down-about {
+        padding: 37px 46px;
+    }
+
+    /* =======about part end============ */
+    /* =======portfolio part start========== */
+    .port-item {
+        margin-bottom: 24px;
+    }
+    /* =======portfolio part end============ */
+    /* =======service part start========== */
+    .angle_up i {
+        display: none;
+    }
+
+    .chain img {
+        display: none;
+    }
+
+    .inner_service:nth-child(odd) .service {
+        flex-direction: column;
+    }
+
+    .service {
+        flex-direction: column;
+        margin: 0 12px;
+    }
+
+    .left_service {
+        width: 100%;
+    }
+
+    .left_service h4 {
+        font-size: 18px;
+        margin-bottom: 24px;
+        text-align: center;
+    }
+
+    .inner_service:nth-child(odd) .left_service h4 {
+        text-align: center;
+
+    }
+
+    .mid_service {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+    .angle_bott i {
+        display: none;
+    }
+
+    .right_service {
+        width: 100%;
+        padding: 30px 25px;
+    }
+
+    .right_service p {
+        line-height: 22px;
+        font-size: 14px;
+    }
+
+    .inner_service:nth-child(odd) .right_service p {
+        text-align: center;
+
+    }
+
+    .angle_sape {
+        display: none;
+    }
+
+    .right_service {
+        margin-bottom: 20px;
+    }
+
+    /* =======service part end============ */
+    /* =======common part start========== */
+    .angle_top i {
+        display: none;
+    }
+
+    .angle_bottom i {
+        display: none;
+    }
+
+    .chain2 {
+        display: none;
+    }
+
+    .person {
+        margin: 0 auto;
+    }
+
+    .sapee {
+        display: none;
+    }
+
+    #comment {
+        padding: 50px 0;
+    }
+
+    .comment {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .comment {
+        padding: 40px 25px;
+        margin: 0 12px;
+    }
+
+    .comment h4 {
+        font-size: 18px;
+    }
+
+    .comment h5 {
+        font-size: 16px;
+    }
+
+    .comment p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .comment h6 {
+        font-size: 18px;
+    }
+
+    .comment_img {
+        left: 134px;
+    }
+
+    #comment {
+        padding: 70px 0;
+    }
+
+    /* =======common part end============ */
+    /* =======Team part start============ */
+    .pracing_main {
+        margin-bottom: 24px;
+    }
+
+    /* =======Team part end============ */
+    /* =======counter part start========== */
+    #counter {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .counter_wrepper {
+        justify-content: space-around;
+    }
+
+    .counter_item {
+        width: 184px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 24px;
+    }
+
+    .counter_item h3 {
+        font-size: 26px;
+    }
+
+    /* =======counter part end============ */
+    /* =======team part start============ */
+    #team {
+        padding-bottom: 24px;
+    }
+
+    .team {
+        margin-bottom: 24px;
+    }
+
+    /* =======team part end============ */
+    /* =======footer part start============ */
+    .footer_item::after {
+        display: none;
+    }
+
+    /* =======footer part end============ */
+
+}
+
+@media(min-width:576px) and (max-width:767px) {
+
+    /* =======navber part start========== */
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background: #313131;
+    }
+
+    .navbar-brand img {
+        transform: scale(.8);
+    }
+
+    /* =======navber part end============ */
+    /* =======banner part start========== */
+    .sape-down {
+        display: none;
+    }
+    .angle-right i {
+        display: none !important;
+    }
+    .angle-left i {
+        display: none !important;
+    }
+    .ban-text h2 {
+        font-size: 30px;
+        margin-bottom: 5px;
+        margin-top: 70px;
+    }
+    .ban-text h1 {
+        font-size: 40px;
+        margin-bottom: 5px;
+    }
+    .ban-text p {
+        margin-bottom: 7px;
+    }
+    .ban-btn button {
+        font-size: 14px;
+        width: 110px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        margin-left: 12px;
+    }
+    /* =======banner part end============ */
+    /* =======about part start========== */
+    #about {
+        margin-top: 50px;
+        margin-bottom: 24px;
+    }
+    .head h3 {
+        font-size: 30px;
+        margin-bottom: 0px;
+    }
+    .head p {
+        padding: 0 0px;
+        width: 425px;
+        margin: 24px auto;
+    }
+    .main-top .dot,
+    .main-top .dot2,
+    .main-top .dot3,
+    .main-top .dot4 {
+        display: none;
+    }
+
+    .about-top .sape {
+        display: none;
+    }
+
+    .left-about .sape {
+        display: none;
+    }
+
+    .right-about .sape {
+        display: none;
+    }
+
+    .down-about .sape {
+        display: none;
+    }
+    .left-about {
+        margin-bottom: 24px;
+        text-align: center !important;
+    }
+    .right-about {
+        text-align: center;
+        margin-top: 24px;
+    }
+    /* =======about part end============ */
+    /* =======portfolio part start========== */
+    .sape-top {
+        display: none;
+    }
+    .port-item {
+        margin-bottom: 24px;
+    }
+    /* =======portfolio part end============ */
+    /* =======service part start========== */
+    #service {
+        margin-top: 50px;
+    }
+    .angle_up i {
+        display: none;
+    }
+
+    .chain img {
+        display: none;
+    }
+
+    .inner_service:nth-child(odd) .service {
+        flex-direction: column;
+    }
+
+    .service {
+        flex-direction: column;
+        margin: 0 12px;
+    }
+
+    .left_service {
+        width: 100%;
+    }
+
+    .left_service h4 {
+        font-size: 18px;
+        margin-bottom: 24px;
+        text-align: center;
+    }
+
+    .inner_service:nth-child(odd) .left_service h4 {
+        text-align: center;
+
+    }
+
+    .mid_service {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+    .angle_bott i {
+        display: none;
+    }
+
+    .right_service {
+        width: 100%;
+        padding: 30px 25px;
+    }
+
+    .right_service p {
+        line-height: 22px;
+        font-size: 14px;
+    }
+
+    .inner_service:nth-child(odd) .right_service p {
+        text-align: center;
+
+    }
+
+    .angle_sape {
+        display: none;
+    }
+
+    .right_service {
+        margin-bottom: 20px;
+    }
+
+    /* =======service part end============ */
+    /* =======common part start========== */
+    .angle_top i {
+        display: none;
+    }
+
+    .angle_bottom i {
+        display: none;
+    }
+
+    .chain2 {
+        display: none;
+    }
+
+    .person {
+        margin: 0 auto;
+    }
+
+    .sapee {
+        display: none;
+    }
+
+    #comment {
+        padding: 50px 0;
+    }
+
+    .comment {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .comment {
+        padding: 40px 25px;
+        margin: 0 12px;
+    }
+
+    .comment h4 {
+        font-size: 18px;
+    }
+
+    .comment h5 {
+        font-size: 16px;
+    }
+
+    .comment p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .comment h6 {
+        font-size: 18px;
+    }
+
+    .comment_img {
+        left: 134px;
+    }
+
+    /* =======common part end============ */
+    /* =======pracing part start========== */
+    #pracing{
+        margin-top: 50px;
+    }
+    .pracing_top h4 {
+        font-size: 16px;
+    }
+
+    .circle h4 {
+        font-size: 27px;
+    }
+
+    .pracing_mid ul li {
+        font-size: 13px;
+    }
+
+    .pracing_down h4 {
+        font-size: 14px;
+    }
+
+    .pracing_main {
+        margin-bottom: 24px;
+    }
+
+    /* =======pracing part end============ */
+    /* =======counter part start========== */
+    #counter {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .counter_wrepper {
+        justify-content: space-around;
+        transform: rotate(0deg);
+    }
+
+    .counter_item {
+        width: 184px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 24px;
+        transform: skew(0deg);
+    }
+
+    .counter_item h3 {
+        font-size: 26px;
+        transform: rotate(0deg) skew(0deg);
+    }
+
+    .counter_item p {
+        font-size: 14px;
+        transform: rotate(0deg) skew(0deg);
+    }
+
+    /* =======counter part end============ */
+    /* =======team part start========== */
+    #team {
+        padding-bottom: 24px;
+        margin-top: 50px;
+    }
+
+    .team {
+        margin-bottom: 24px;
+    }
+
+    /* =======team part end============ */
+    /* =======brand part start========== */
+    #brand {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .main_brand {
+        justify-content: center;
+        transform: rotate(0deg);
+    }
+
+    .brand {
+        padding: 12px 0;
+        transform: skew(0deg);
+    }
+
+    .brand img {
+        transform: rotate(0deg) skew(0deg);
+    }
+
+    /* =======brand part end============ */
+    /* =======footer part start========== */
+    .sape_topr {
+        display: none;
+    }
+
+    #footer {
+        padding-top: 50px;
+    }
+
+    .footer_logo {
+        padding-bottom: 24px;
+        transform: rotate(0deg);
+    }
+
+    .footer_logo img {
+        transform: scale(.8) rotate(0deg);
+    }
+
+    .footer_item {
+        margin-bottom: 24px;
+    }
+
+    .footer_bottom h3 {
+        font-size: 20px;
+        margin-top: 40px;
+    }
+
+    .footer_item p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .footer_icon a i {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .footer_item::after {
+        display: none;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+
+    /* =======footer part end============ */
+
+}
+
+@media(max-width:575.99px) {
+    /* ========navber part start========= */
+    .navbar-brand img{
+        transform: scale(.8);
+}
+    .navbar {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        position: static;
+        background-color: #222;
+    }
+    .navbar.sticky-menu{
+        position: fixed;
+    }
+    .slide-bar .nav-item.active .nav-link::after{
+        width: 100% !important;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    /* ========navber part end========= */
+    /* ========banner part end========= */
+    .sape-down {
+        display: none;
+    }
+    .angle-right i {
+        display: none !important;
+    }
+    .angle-left i {
+        display: none !important;
+    }
+    .ban-text p {
+        line-height: 18px;
+        padding: 0 0px;
+        margin-bottom: 5px;
+        font-size: 13px;
+    }
+    .ban-text h1 {
+        font-size: 30px;
+        margin-bottom: 5px;
+    }
+    .ban-text h2 {
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+    .ban-btn button {
+        font-size: 14px;
+        width: 96px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        margin-left: 5px;
+    }
+    /* ========banner part end========= */
+    /* ========about part start========= */
+    .head h3 {
+        padding-top: 50px;
+        font-size: 28px;
+    }
+    .head p {
+        font-size: 13px;
+        line-height: 24px;
+        margin-bottom: 30px;
+        padding: 0 10px;
+    }
+    .about-top .sape {
+        display: none;
+    }
+    .main-top .dot {
+        display: none;
+    }
+    .dot2 {
+        display: none;
+    }
+    .dot4 {
+        display: none;
+    }
+    .dot3 {
+        display: none;
+    }
+    .left-about .sape {
+        display: none;
+    }
+    .down-about .sape {
+        display: none;
+    }
+    .right-about .sape {
+        display: none;
+    }
+    .about-top .sape {
+        display: none;
+    }
+    .about-top p, .left-about p, .right-about p, .down-about p {
+        font-size: 13px;
+    }
+    .left-about{
+        text-align: center !important;
+    }
+    .mid-about {
+        width: 270px;
+        height: 270px;
+        margin-top: 24px !important;
+        margin-bottom: 24px !important;
+    }
+    .inner-img img {
+        width: 250px;
+        height: 250px;
+    }
+    /* ========about part end========= */
+    /* ========portfolio part start========= */
+    .sape-top {
+        display: none;
+    }
+    #portfolio {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-top: 24px;
+    }
+    .port-item {
+        margin-bottom: 24px;
+    }
+    /* ========portfolio part end========= */
+        /* =======service part start========== */
+        .angle_up i {
+            display: none;
+        }
+    
+        .chain img {
+            display: none;
+        }
+    
+        .inner_service:nth-child(odd) .service {
+            flex-direction: column;
+        }
+    
+        .service {
+            flex-direction: column;
+            margin: 0 12px;
+        }
+    
+        .left_service {
+            width: 100%;
+        }
+    
+        .left_service h4 {
+            font-size: 18px;
+            margin-bottom: 24px;
+            text-align: center;
+        }
+    
+        .inner_service:nth-child(odd) .left_service h4 {
+            text-align: center;
+    
+        }
+    
+        .mid_service {
+            width: 100%;
+            margin-bottom: 25px;
+        }
+    
+        .angle_bott i {
+            display: none;
+        }
+    
+        .right_service {
+            width: 100%;
+            padding: 30px 25px;
+        }
+    
+        .right_service p {
+            line-height: 22px;
+            font-size: 14px;
+        }
+    
+        .inner_service:nth-child(odd) .right_service p {
+            text-align: center;
+    
+        }
+    
+        .angle_sape {
+            display: none;
+        }
+    
+        .right_service {
+            margin-bottom: 20px;
+        }
+    
+        /* =======service part end============ */
+        /* =======common part start========== */
+        .angle_top i {
+            display: none;
+        }
+    
+        .angle_bottom i {
+            display: none;
+        }
+    
+        .chain2 {
+            display: none;
+        }
+    
+        .person {
+            margin: 0 auto;
+        }
+    
+        .sapee {
+            display: none;
+        }
+    
+        #comment {
+            padding: 50px 0;
+        }
+    
+        .comment {
+            margin-left: 0;
+            margin-right: 0;
+        }
+    
+        .comment {
+            padding: 40px 25px;
+            margin: 0 12px;
+        }
+    
+        .comment h4 {
+            font-size: 18px;
+        }
+    
+        .comment h5 {
+            font-size: 16px;
+        }
+    
+        .comment p {
+            font-size: 14px;
+            line-height: 22px;
+        }
+    
+        .comment h6 {
+            font-size: 18px;
+        }
+    
+        .comment_img {
+            left: 134px;
+        }
+    
+        /* =======common part end============ */
+            /* =======pracing part start========== */
+    .pracing_top h4 {
+        font-size: 16px;
+    }
+
+    .circle h4 {
+        font-size: 27px;
+    }
+
+    .pracing_mid ul li {
+        font-size: 13px;
+    }
+
+    .pracing_down h4 {
+        font-size: 14px;
+    }
+
+    .pracing_main {
+        margin-bottom: 24px;
+    }
+
+    /* =======pracing part end============ */
+    /* =======counter part start========== */
+    #counter {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .counter_wrepper {
+        justify-content: space-around;
+        transform: rotate(0deg);
+    }
+
+    .counter_item {
+        width: 184px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 24px;
+        transform: skew(0deg);
+    }
+
+    .counter_item h3 {
+        font-size: 26px;
+        transform: rotate(0deg) skew(0deg);
+    }
+
+    .counter_item p {
+        font-size: 14px;
+        transform: rotate(0deg) skew(0deg);
+    }
+
+    /* =======counter part end============ */
+    /* =======team part start========== */
+    #team {
+        padding-bottom: 24px;
+    }
+
+    .team {
+        margin-bottom: 24px;
+    }
+
+    /* =======team part end============ */
+    /* =======brand part start========== */
+    #brand {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .main_brand {
+        justify-content: center;
+        transform: rotate(0deg);
+    }
+
+    .brand {
+        padding: 12px 0;
+        transform: skew(0deg);
+    }
+
+    .brand img {
+        transform: rotate(0deg) skew(0deg);
+    }
+
+    /* =======brand part end============ */
+    /* =======footer part start========== */
+    .sape_topr {
+        display: none;
+    }
+
+    #footer {
+        padding-top: 50px;
+    }
+
+    .footer_logo {
+        padding-bottom: 24px;
+        transform: rotate(0deg);
+    }
+
+    .footer_logo img {
+        transform: scale(.8) rotate(0deg);
+    }
+
+    .footer_item {
+        margin-bottom: 24px;
+    }
+
+    .footer_bottom h3 {
+        font-size: 20px;
+        margin-top: 40px;
+    }
+
+    .footer_item p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .footer_icon a i {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .footer_item::after {
+        display: none;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    /* =======footer part end============ */
+}
